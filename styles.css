@@ -1,0 +1,47 @@
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table, th, td {
+    border: 2px solid black;
+    border-collapse: collapse;
+    align-self: center;
+}
+
+thead {
+    background-color: orange;
+    color: white;
+}
+
+h1, h2 {
+    text-align: center;
+    margin-top: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 1px;
+}
+
+td {
+    padding: 10px 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+}
+
+th {
+    font-weight: bold;
+    font-family: monospace;
+    font-size: 20px;
+}
+
+body {
+    background-color: crimson;
+}
+
+.title {
+    border: 20px solid black;
+    padding: 10px;
+    font-size: 70px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    overflow: scroll;
+}
+
